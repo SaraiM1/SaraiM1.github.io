@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page WIP but Hi</title>
+</head>
+<body>
+
+<img src="gwrench.png" alt="gwrench" width="300" height="200">
+
+<h1>I need to edit this page. Yet another BAD Heading </h1>
+<p> Please enjoy the wrench or go back to home page
+<a href="index.html">homepage </a> </p>
+
+</body>
+</html>

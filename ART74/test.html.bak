@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Hello</title>
 </head>
 <body>
 
-
+<img src="wrench.jpg" alt="wrench">
 
 <h1>I need to edit this page. This is a BAD Heading </h1>
-<p>This is a paragraph.</p>
+<p>Please enjoy this wrench.</p>
+<p> <a href="test.html">yet another page</a> </p>
 
 </body>
 </html>

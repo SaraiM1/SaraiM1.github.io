@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FloresRflowers</title>
+</head>
+<body>
+
+
+<h1>You're Welcome</h1>
+
+<img src="relax.jpg" alt="relax" width="500" height="500">
+
+<h2> I hope you had a good time today, perhaps we could do this again sometime</h2>
+<h2> And if we don't that's okay, just make sure to take some time for yourself and stop to smell the flowers!</h2>
+
+<p> 
+<a href="pg11.html"> Continue to self care tips </a>
+</p>
+</body>
+</html>

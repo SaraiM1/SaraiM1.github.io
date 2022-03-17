@@ -9,7 +9,7 @@ function preload() {
 //  img = loadImage('cat.jpg');  // cat.jpg needs to be next to this .js file
 // you can link to an image on your github account
   img = loadImage('https://dma-git.github.io/images/74.png');
-//  img2 = loadImage('images/star_o.png');
+  img2 = loadImage('https://saraim1.github.io/diyps2021/star.png');
 
 }
 
@@ -102,8 +102,8 @@ function newkeyChoice(toolChoice) { //toolchoice is the key that was pressed
   } else if (toolChoice == 'g' || toolChoice == 'G') { // g places the image we pre-loaded
     image(img, mouseX-30, mouseY-30);
     
-  //} else if (toolChoice == 's' || toolChoice == 'S') { // s places the image we pre-loaded
-  //  image(img2, mouseX, mouseY);
+  } else if (toolChoice == 's' || toolChoice == 'S') { // s places the image we pre-loaded
+    image(img2, mouseX, mouseY);
     
   }
  }

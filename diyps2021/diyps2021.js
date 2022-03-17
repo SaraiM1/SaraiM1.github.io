@@ -8,13 +8,13 @@ function preload() {
 // preload() runs once, it may make you wait
 //  img = loadImage('cat.jpg');  // cat.jpg needs to be next to this .js file
 // you can link to an image on your github account
-//  img = loadImage('https://dma-git.github.io/images/74.png');
-  //img2 = loadImage('https://dma-git.github.io/images/star.png');
+  img = loadImage('https://dma-git.github.io/images/74.png');
+//  img2 = loadImage('images/star_o.png');
 
 }
 
 function setup() {
-createCanvas(600, 400);  // canvas size
+createCanvas(600, 650);  // canvas size
 background(screenbg);   // use our background screen color
 
 }
@@ -101,6 +101,9 @@ function newkeyChoice(toolChoice) { //toolchoice is the key that was pressed
     rect(mouseX, mouseY, 50, 50);
   } else if (toolChoice == 'g' || toolChoice == 'G') { // g places the image we pre-loaded
     image(img, mouseX-30, mouseY-30);
+    
+  //} else if (toolChoice == 's' || toolChoice == 'S') { // s places the image we pre-loaded
+  //  image(img2, mouseX, mouseY);
     
   }
  }

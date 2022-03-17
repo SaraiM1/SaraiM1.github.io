@@ -113,7 +113,7 @@ function testbox(r, g, b) {
   x = mouseX;
   y = mouseY;
   fill(r, g, b);
-  rect(x-50, y-50, 100, 100);
+  rect(x-100, y-50, 100, 100);
 
 }
 

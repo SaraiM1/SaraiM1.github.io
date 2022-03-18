@@ -103,7 +103,7 @@ function newkeyChoice(toolChoice) { //toolchoice is the key that was pressed
     //image(img, mouseX-30, mouseY-30);
     
   } else if (toolChoice == 's' || toolChoice == 'S') { // s places the image we pre-loaded
-    image(img2, mouseX, mouseY);
+    image(img2, mouseX-30, mouseY-30);
     
   }
  }

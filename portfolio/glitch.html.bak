@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>smateo portfolio</title>
+</head>
+
+<body>
+
+<h1>Glitch Art</h1>
+<p><a href="index.html">Homepage</a></p>
+
+<p>take a look at some of my projects.</p>
+
+<img src="../images/food1.png" alt="food1" style="width:600px;height:400px;">
+<img src="../images/food2.png" alt="food1" style="width:600px;height:300px;">
+<img src="../images/food3.png" alt="food1" style="width:600px;height:400px;">
+
+</body>
+</html>

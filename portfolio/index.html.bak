@@ -28,7 +28,7 @@
 </nav>
 
 
-<p>Feel free to click on the images or links or check out the navigation bar to see differnt types of artwork</p>
+<p>Feel free to click on the images or check out the navigation bar to see differnt types of artwork</p>
 
 <a href="glitch.html">
 <img src="../images/food1.png" class="img-fluid" "rounded" alt="food1" style="width:600px;height:400px;">
@@ -41,7 +41,7 @@
 <p><a href="mememashup.html">Mememashup Art</a></p>
 
 <a href="netart.html">
-<img src="../images/netart.png" class="img-fluid" "rounded" alt="meme" style="width:40px;height:600px;">
+<img src="../images/netart.png" class="img-fluid" "rounded" alt="meme">
 </a>
 <p><a href="netart.html">Net-Art</a></p>
 

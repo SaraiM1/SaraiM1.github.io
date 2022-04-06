@@ -36,7 +36,7 @@ This assignment was done by using html coding. I quickly designed all the illust
 ​
 <p>Click on the image so you can play the story too! </p>
 <a href="https://saraim1.github.io/NetArt/FloresIndex.html">
-<img src="../images/netart.png" class="img-fluid" "rounded" alt="food1">
+<img src="../images/netart.png" class="mx-auto d-block" "img-fluid" "rounded" alt="food1">
 </a>
 
 

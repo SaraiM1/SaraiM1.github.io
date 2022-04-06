@@ -17,15 +17,11 @@
 <h1>Welcome</h1>
 <p>take a look at some of my projects.</p>
 
-<ul class="nav nav-tabs">
-    <li class="nav-item">
-      <a class="glitch.html" href="#">Active</a>
-    </li>
+<img src="../images/BrownCat.jpg" class="img-fluid" "rounded" alt="cat">
 
-<img src="../images/BrownCat.jpg" class="rounded" alt="cat">
+<br>
 <p><a href="glitch.html">HTML Images</a></p>
 
-</ul>
 </div>
 </body>
 </html>

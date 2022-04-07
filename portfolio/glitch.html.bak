@@ -19,21 +19,28 @@
 	<li class="nav-item"><a class="nav-link" href="glitch.html">glitch</a></li>
 	<li class="nav-item"><a class="nav-link" href="mememashup.html">meme</a></li>
 	<li class="nav-item"><a class="nav-link" href="netart.html">net-art</a></li>
-    	<li class="nav-item"><a class="nav-link" href="p5js.html">selfie</a></li>
+    	<li class="nav-item"><a class="nav-link" href="selfie.html">selfie</a></li>
 	<li class="nav-item"><a class="nav-link" href="diyps.html">diyps</a></li>
-   	<li class="nav-item"><a class="nav-link" href="future1.html">future1</a></li>
-   	<li class="nav-item"><a class="nav-link" href="future2.html">future2</a></li>
 </ul> 
 </nav>
 
 <br>
-<img src="../images/food1.png" class="mx-auto d-block" "img-fluid" "rounded" alt="food1" style="width:500px;height:300px;">
-<img src="../images/food2.png" class="mx-auto d-block" "img-fluid" "rounded" alt="food1" style="width:600px;height:300px;">
-<img src="../images/food3.png" class="mx-auto d-block" "img-fluid" "rounded" alt="food1" style="width:500px;height:300px;">
+<div class="container mt-3">
+<img src="../images/food1.png" class="float-start" "img-fluid" "rounded" alt="food1" style="width:300;height:200px;">
+<img src="../images/food3.png" class="float-end" "img-fluid" "rounded" alt="food3" style="width:300px;height:200px;">
+</div>
+
+<div class="container mt-3">
+<img src="../images/food2.png" class="mx-auto d-block" "img-fluid" "rounded" alt="food2" style="width:400px;height:200px;">
+</div>
+
 
 <br>
-<p>This is a collection of glitch art is showing how normalized and ignored food waste is in today's society. These images were purposely corrupted in order to achieve a distorted appearance.</p>
-<p>The outer images were done by using Audacity while the second image was done by using Notes++. Adobe Photoshop was also used in order to achieve the monochromatic aesthetic the outer images have. By leaving the center image with color, emphasis is put on the rotting food and trash that we might see on tv or social media when talking about food waste. Meanwhile the center image is getting attention, we forget to acknowledge how the dump gets the way it is. While majority of society may be uninterested or uneducated about food waste, the side images depict what restaurants or some people at home might do with extra food which might be adding on to this issue.</p>
+<div class="container my-3">
+<p class="text-center">This is a collection of glitch art is showing how normalized and ignored food waste is in today's society. These images were purposely corrupted in order to achieve a distorted appearance.</p>
+<p class="text-center">The outer images were done by using Audacity while the second image was done by using Notes++. Adobe Photoshop was also used in order to achieve the monochromatic aesthetic the outer images have. By leaving the center image with color, emphasis is put on the rotting food and trash that we might see on tv or social media when talking about food waste. Meanwhile the center image is getting attention, we forget to acknowledge how the dump gets the way it is. While majority of society may be uninterested or uneducated about food waste, the side images depict what restaurants or some people at home might do with extra food which might be adding on to this issue.</p>
+</div>
+
 </div>
 </body>
 </html>

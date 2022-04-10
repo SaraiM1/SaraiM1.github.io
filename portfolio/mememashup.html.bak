@@ -15,13 +15,15 @@
  	<li class="nav-item"><a class="nav-link" href="index.html">home</a></li>
 	<li class="nav-item"><a class="nav-link" href="glitch.html">glitch</a></li>
 	<li class="nav-item"><a class="nav-link" href="mememashup.html">meme</a></li>
+	<li class="nav-item"><a class="nav-link" href="diyps.html">diyps</a></li>
 	<li class="nav-item"><a class="nav-link" href="netart.html">net-art</a></li>
     <li class="nav-item"><a class="nav-link" href="selfie.html">selfie</a></li>
-	<li class="nav-item"><a class="nav-link" href="diyps.html">diyps</a></li>
 </ul> 
 </nav>
 
-<h1>Meme-Mashup Art</h1>
+<div class="container my-3">
+<h1 class="text-center">Meme-Mashup Art</h1>
+</div>
 
 <img src="../images/meme.png" class="mx-auto d-block" "img-fluid" "rounded" alt="meme" style="width:600px;height:400px;">
 <br>

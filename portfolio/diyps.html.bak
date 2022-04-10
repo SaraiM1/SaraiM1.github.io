@@ -8,9 +8,14 @@
 <!-- Latest compiled JavaScript -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="mystyle.css">
 
 <body>
 <div class="container-fluid">
+
+<div class="container my-3">
+<h1 class="text-center">DIYPS</h1>
+</div>
 
 <nav class="navbar navbar-expand-sm bg-light navbar-light justify-content-center">
  <ul class="navbar-nav">
@@ -20,15 +25,14 @@
 	<li class="nav-item"><a class="nav-link" href="diyps.html">diyps</a></li>
     <li class="nav-item"><a class="nav-link" href="netart.html">net-art</a></li>
 	<li class="nav-item"><a class="nav-link" href="selfie.html">selfie</a></li>
+		<li class="nav-item"><a class="nav-link" href="About.html">about</a></li>
+
 </ul> 
 </nav>
 
-<div class="container my-3">
-<h1 class="text-center">DIYPS</h1>
-</div>
 
 <div class="container my-3">
-<p class="text-center">This is my Do-It-Yourself Photoshop page; the purpose of this page is to create your own abstract painting. There are 11 different brushes the viewer is able to use. Make sure to check out the brush and to see the code for this artwork.</p>
+<p class="text-center">This is my Do-It-Yourself Photoshop page; the purpose of this page is to create your own abstract painting. There are 11 different brushes the viewer is able to use. Make sure to check out the brushes and to see the code for this artwork.</p>
 <p class="text-center">Feel free to create something without feeling the pressure of it being perfect. Click on the image to try it out yourself.</p>
 </div>
 

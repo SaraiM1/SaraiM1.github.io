@@ -1,7 +1,7 @@
 
 var ballx = 300;
 var bally = 300;
-var ballSize = 40;
+var ballSize = 60;
 var score = 0;
 var img1, img2;
 var gameState = "L1";

@@ -1,14 +1,16 @@
 
 var ballx = 300;
 var bally = 300;
-var ballSize = 40;
+var ballSize = 60;
 var score = 0;
-var img1, img2;
+var img1, img2, img3;
 var gameState = "L1";
 
 function preload(){
   img1 = loadImage('https://saraim1.github.io/images/bed1.png');
     img2 = loadImage('https://saraim1.github.io/images/hammy.png');
+        img3 = loadImage('https://saraim1.github.io/images/desk.png');
+
 }
 
 function setup() {
@@ -25,7 +27,8 @@ if(gameState == "L1"){
 levelOne();
 }
 if(gameState == "L2"){
-  levelTwo();
+  background(img3);
+    levelTwo();
 }
 if(gameState == "L3"){
   levelThree();
@@ -45,7 +48,8 @@ function levelOne(){
   }
   
   if(score>=5){
-  gameState = "L2"
+  gameState = "L2";
+  background(img3);
   }
   
  // ellipse(ballx, bally, ballSize, ballSize);
@@ -88,7 +92,7 @@ function levelThree(){
   }
   
   if(score>=15){
-  //background(random(255));
+  //background(img3);
   }
   
  // ellipse(ballx, bally, ballSize, ballSize);

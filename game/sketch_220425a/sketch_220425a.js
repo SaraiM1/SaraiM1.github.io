@@ -1,7 +1,7 @@
 
 var ballx = 300;
 var bally = 300;
-var ballSize = 60;
+var ballSize = 80;
 var score = 0;
 var img1, img2, img3;
 var gameState = "L1";
@@ -10,6 +10,8 @@ function preload(){
   img1 = loadImage('https://saraim1.github.io/images/bed1.png');
     img2 = loadImage('https://saraim1.github.io/images/hammy.png');
         img3 = loadImage('https://saraim1.github.io/images/desk.png');
+                img4 = loadImage('https://saraim1.github.io/images/room.png');
+                    img5 = loadImage('https://saraim1.github.io/images/hammy2.png');
 
 }
 
@@ -31,7 +33,12 @@ if(gameState == "L2"){
     levelTwo();
 }
 if(gameState == "L3"){
+    background(img4);
   levelThree();
+}
+if(gameState == "End"){
+    background(img5);
+  End();
 }
 
 text(("Score: " + score), width/2, 40);
@@ -71,6 +78,7 @@ function levelTwo(){
   
   if(score>=10){
   gameState = "L3";
+  background(img4);
   }
   
  // ellipse(ballx, bally, ballSize, ballSize);
@@ -92,7 +100,8 @@ function levelThree(){
   }
   
   if(score>=15){
-  //background(img3);
+    gameState = "End";
+     background(img5);
   }
   
  // ellipse(ballx, bally, ballSize, ballSize);
@@ -102,3 +111,10 @@ function levelThree(){
    // line(ballx+80, bally+80, mouseX, mouseY);
 
 } //end of level 3
+
+function End(){
+text("End", width/2, height-530);
+text("Thank you for bringing my hammy back!", width/2, height-20);
+
+
+}

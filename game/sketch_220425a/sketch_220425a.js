@@ -67,8 +67,8 @@ function levelOne(){
   text("level 1", width/2, height-530);
   var distToBall = dist (ballx+80, bally+80, mouseX, mouseY);
   if(distToBall < ballSize/2){
-    ballx = random(width-15);
-    bally = random(height-15); 
+    ballx = random(width-115);
+    bally = random(height-115); 
     score = score + 1;
   }
   
@@ -88,8 +88,8 @@ function levelTwo(){
   text("level 2", width/2, height-530);
   var distToBall = dist (ballx+80, bally+80, mouseX, mouseY);
   if(distToBall < ballSize/2){
-    ballx = random(width-15);
-    bally = random(height-15); 
+    ballx = random(width-115);
+    bally = random(height-115); 
     score = score + 1;
   }
   
@@ -110,8 +110,8 @@ function levelThree(){
   text("level 3", width/2, height-530);
   var distToBall = dist (ballx+80, bally+80, mouseX, mouseY);
   if(distToBall < ballSize/2){
-     ballx = random(width-15);
-    bally = random(height-15); 
+     ballx = random(width-115);
+    bally = random(height-115); 
     score = score + 1;
     //ballSize = ballSize - 1;
   }

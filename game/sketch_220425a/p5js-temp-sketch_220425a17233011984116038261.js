@@ -12,13 +12,13 @@ function preload(){
     img2 = loadImage('https://saraim1.github.io/images/hammy1.png');
         img3 = loadImage('https://saraim1.github.io/images/desk.png');
            img4 = loadImage('https://saraim1.github.io/images/room.png');
-               img5 = loadImage('https://saraim1.github.io/images/hammy2.png');
+               img5 = loadImage('https://saraim1.github.io/images/hammyend.png');
   beginImg = loadImage ('https://saraim1.github.io/images/HamsterDetective.png');
 }
 
 function setup() {
   createCanvas(600,600);
-  let c = color(200, 100, 100); //textcolor
+  let c = color(255, 255); //textcolor
   fill(c);
   textAlign(CENTER);
   textStyle(BOLD);
@@ -50,6 +50,8 @@ if(gameState == "L3"){
 }
 if(gameState == "Win"){
     background(img5);
+       text(("Score: " + score), width/2, 27);
+
   Win();
 }
 
@@ -113,7 +115,7 @@ function levelThree(){
      ballx = random(width-115);
     bally = random(height-115); 
     score = score + 1;
-    ballSize = ballSize -1;
+   // ballSize = ballSize -1;
   }
   
   if(score>=15){
@@ -132,7 +134,7 @@ function levelThree(){
 } //end of level 3
 
 function Win(){
-text("Win", width/2, height-530);
-text("Thank you for bringing my hammy back!", width/2, height-20);
+//text("Win", width/2, height-530);
+//text("Thank you for bringing my hammy back!", width/2, height-20);
 
 } //end of game

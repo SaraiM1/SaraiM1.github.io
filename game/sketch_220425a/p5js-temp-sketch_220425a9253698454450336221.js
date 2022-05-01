@@ -88,8 +88,8 @@ function levelTwo(){
   text("level 2", width/2, height-530);
   var distToBall = dist (ballx+80, bally+80, mouseX, mouseY);
   if(distToBall < ballSize/2){
-    ballx = random(width-500);
-    bally = random(height-500); 
+    ballx = random(width-115);
+    bally = random(height-115); 
     score = score + 1;
   }
   
@@ -98,9 +98,9 @@ function levelTwo(){
   background(img4);
   }
   
- // ellipse(ballx, bally, ballSize, ballSize);
+  //image(img2,ballx, bally, 160,160);
+    image(img2,ballx, bally, ballSize, ballSize);
 
-  image(img2,ballx, bally, 160,160);
   
    // line(ballx+80, bally+80, mouseX, mouseY);
 
@@ -113,7 +113,7 @@ function levelThree(){
      ballx = random(width-115);
     bally = random(height-115); 
     score = score + 1;
-   // ballSize = ballSize -5;
+    ballSize = ballSize -1;
   }
   
   if(score>=15){
@@ -122,9 +122,10 @@ function levelThree(){
   }
   
  // ellipse(ballx, bally, ballSize, ballSize);
-    //  image(img2,ballx, bally, ballSize, ballSize);
+      image(img2,ballx, bally, ballSize, ballSize);
 
-  image(img2,ballx, bally, 160,160);
+  //image(img2,ballx, bally, 160,160);
+ 
   
    // line(ballx+80, bally+80, mouseX, mouseY);
 

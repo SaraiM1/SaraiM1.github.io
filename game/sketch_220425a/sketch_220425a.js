@@ -51,7 +51,6 @@ if(gameState == "L3"){
 if(gameState == "Win"){
     background(img5);
        text(("Score: " + score), width/2, 40);
-
   Win();
 }
 
@@ -133,7 +132,7 @@ function levelThree(){
 } //end of level 3
 
 function Win(){
-//text("Win", width/2, height-530);
+text("<3", width/2, height-530);
 //text("Thank you for bringing my hammy back!", width/2, height-20);
 
 } //end of game

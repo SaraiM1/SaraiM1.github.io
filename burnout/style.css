@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(255, 99, 71);
+ 	  border: 5px solid gray;
+}
+
+h1 {
+	  background-color: lightgrey;
+
+  color: black;
+    padding-top: 50px;
+	padding-right: auto;
+	padding-bottom: 50px;
+	padding-left: auto;
+
+}
+
+h3 {
+	color: black;
+	padding-top: auto;
+	padding-right: auto;
+	padding-bottom: auto;
+	padding-left: auto;
+}

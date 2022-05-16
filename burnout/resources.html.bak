@@ -2,13 +2,15 @@
 <html>
 <head>
 <title>Resources</title>
+<link rel="stylesheet" href="style.css">
+
 </head>
-<link rel="stylesheet" href="index.css">
 
 <!-- Latest compiled and minified CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <!-- Latest compiled JavaScript -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+<div id="example1">
 
 <body>
 <div class="container">
@@ -16,6 +18,24 @@
 <br>
 <h3 align="center">You deserve to take care of yourself. Below are some linked resources that show self care and what you could do to prevent burnout. </h3>
 <br>
+<p>What is it, and how to prevent burnout link tips</p>
+<a href="https://www.helpguide.org/articles/stress/burnout-prevention-and-recovery.htm" target="_blank">HelpGuide.com</a>
+<br>
+<a href="https://www.healthline.com/health/tips-for-identifying-and-preventing-burnout" target="_blank">healthline.com</a>
+<br>
+<a href="https://www.mindtools.com/pages/article/avoiding-burnout.htm" target="_blank">MindTools.com</a>
+<br>
+<a href="https://www.indeed.com/career-advice/career-development/how-to-avoid-a-burnout" target="_blank">indeed.com</a>
+<br>
+<p>Links for tips on how to recover from burnout</p>
+<a href="https://www.jordangrayconsulting.com/recover-extreme-burnout-adrenal-fatigue-exhaustion/" target="_blank">jordangrayconsulting.com</a>
+<br>
+<a href="https://www.choosingtherapy.com/how-to-recover-from-burnout/" target="_blank">choosingtherapy.com</a>
+<br>
+<p>Link for self care tips!"</p>
+<a href="https://www.betterhelp.com/advice/mindfulness/what-is-self-care-and-how-to-practice-it/" target="_blank">BetterHelp.com</a>
+
+
 <div class="container mt-3">
 <div style="text-align:right">
  <button type="button" class="btn btn-outline-warning" onclick="location.href='pg7.html'">Previous Page</button>

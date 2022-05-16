@@ -1,14 +1,16 @@
 body {
-  background-color: rgb(255, 99, 71);
  	  border: 5px solid gray;
-	  content: yellow;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
 }
 
 h1 {
-	  background-color: lightgrey;
+	  background-color: FloralWhite;
 
   color: black;
-    padding-top: 50px;
+    padding-top: 60px;
 	padding-right: auto;
 	padding-bottom: 50px;
 	padding-left: auto;
@@ -22,3 +24,8 @@ h3 {
 	padding-bottom: auto;
 	padding-left: auto;
 }
+
+#example1 {
+	background-color: HoneyDew;
+}
+

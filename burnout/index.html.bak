@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 <title>Burnout</title>
 <link rel="stylesheet" href="style.css">
 
@@ -14,20 +15,24 @@
 
 <div id="example1">
 
-<body>
+<body id="ss">
 <div class="container">
 
 <div class="container mt-3">
-<h1 class="text-center">Play Along, Nothing Can Go Wrong</h1>
+<h1 id="Play" class="text-center">Play Along, Nothing Can Go Wrong</h1>
 <br>
 <h3 class="text-center">By Sarai Mateo</h3>
 
 <br>
 <p class="text-center">A story about burnout</p>
 
-
+<div class="container mt-3">
 <div style="text-align:center">
+ <button type="button" class="btn btn-outline-warning" onclick="location.href='resources.html'">Resource Page</button>
  <button type="button" class="btn btn-outline-warning" onclick="location.href='pg1.html'">Next Page</button>
+
+
+
 
  </div>
 </div>

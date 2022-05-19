@@ -4,7 +4,19 @@
 
 <title>Burnout</title>
 <link rel="stylesheet" href="style.css">
-
+<style>
+#Play { 
+padding-top: 50px;
+padding-bottom:50px;
+}
+#button {
+padding-bottom: 50px;
+h1 {text-align: center;}
+}
+h3 {text-align: center;}
+}
+p {color: #F7FBF7;}
+</style>
 </head>
 
 <!-- Latest compiled and minified CSS -->
@@ -14,26 +26,26 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
 <div id="example1">
+<div class="myDiv">
 
 <body id="ss">
 <div class="container">
 
 <div class="container mt-3">
-<h1 id="Play" class="text-center">Play Along, Nothing Can Go Wrong</h1>
+<h1 id="Play" class="display-1">Play Along, Nothing Can Go Wrong</h1>
 <br>
-<h3 class="text-center">By Sarai Mateo</h3>
-
+<h3 class="display-4">By Sarai Mateo</h3>
 <br>
-<p class="text-center">A story about burnout</p>
+<h2 class="text-center">A story about burnout</h2>
 
-<div class="container mt-3">
+<div id="button" class="container mt-3">
 <div style="text-align:center">
- <button type="button" class="btn btn-outline-warning" onclick="location.href='resources.html'">Resource Page</button>
- <button type="button" class="btn btn-outline-warning" onclick="location.href='pg1.html'">Next Page</button>
+ <button type="button" class="btn btn-outline-success" onclick="location.href='resources.html'">Resource Page</button>
+ <button type="button" class="btn btn-outline-success" onclick="location.href='pg1.html'">Next Page</button>
 
 
 
-
+</div>
  </div>
 </div>
 </div>

@@ -34,7 +34,6 @@ ul {
 	<li class="nav-item"><a class="nav-link" href="selfie.html">selfie</a></li>
 		<li class="nav-item"><a class="nav-link" href="minecraft.html">minecraft/3d</a></li>
 				    <li class="nav-item"><a class="nav-link" href="netart.html">game</a></li>
-
 		<li class="nav-item"><a class="nav-link" href="burnoutstory.html">burnout-story</a></li>
 		<li class="nav-item"><a class="nav-link" href="About.html">about</a></li>
 
@@ -46,8 +45,8 @@ ul {
 <p class="text-center">Click on the image so you can read the story </p>
 </div>
 
-<a href="https://saraim1.github.io/burnout/index.html">
-<img src="../images/1netart.png" class="mx-auto d-block" "img-fluid" "rounded" alt="food1" style="width:600px;height:600px;">
+<a href="https://saraim1.github.io/burnout/index.html
+<img src="../images/pg2.jpg" class="mx-auto d-block" "img-fluid" "rounded" alt="pg2" style="width:500px;height:300px;">
 </a>
 
 

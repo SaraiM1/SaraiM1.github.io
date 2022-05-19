@@ -18,14 +18,20 @@
 <br>
 <h3 align="left">I feel my energy leaving </h3>
 <h3 align="left">I don’t like how this feels</h3>
-<br>
+
+<center>
+<div id="m" class="container mt-3">
+<img src="../images/pg7.jpg" class="mx-auto d-block" alt="pg7" width="700" height="500">
+</div>
+</center>
+
 <h3 align="right">I don’t feel like doing anything</h3>
 <h3 align="right">Yet I still act like a mindless machine</h3>
 
 <div id="button" class="container mt-3">
 <div style="text-align:right">
- <button type="button" class="btn btn-outline-warning" onclick="location.href='pg6.html'">Previous Page</button>
- <button type="button" class="btn btn-outline-warning" onclick="location.href='pg8.html'">Next Page</button>
+ <button type="button" class="btn btn-outline-success" onclick="location.href='pg6.html'">Previous Page</button>
+ <button type="button" class="btn btn-outline-success" onclick="location.href='pg8.html'">Next Page</button>
  </div>
  </div>
 

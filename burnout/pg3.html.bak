@@ -19,9 +19,11 @@
 <h3 align="left">I’ll rest when I’m dead</h3>
 <h3 align="left">There is no time like the present</h3>
 
+<center>
 <div id="m" class="container mt-3">
 <img src="../images/pg3.jpg" class="mx-auto d-block" alt="pg3" width="700" height="500">
 </div>
+</center>
 
 <h3 align="right">These are sayings I hear sometimes</h3>
 <h3 align="right">I’ll be fine I’m still young, just something ingrained into my brain</h3>

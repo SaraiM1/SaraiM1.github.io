@@ -9,7 +9,7 @@ color:lightyellow;
 background color:transparent;
 }
 a:visited {
-color:lightyellow;
+color:darkgreen;
 background color:transparent;
 }
 a:hover {
@@ -35,6 +35,13 @@ background color:transparent;
 
 <br>
 <h3 align="center">You deserve to take care of yourself. Below are some linked resources that show self care and what you could do to prevent burnout. </h3>
+
+<center>
+<div id="m" class="container mt-3">
+<img src="../images/pgr.jpg" class="mx-auto d-block" alt="pgr" width="700" height="500">
+</div>
+</center>
+
 <br>
 <p>What is it, and how to prevent burnout link tips</p>
 <a href="https://www.helpguide.org/articles/stress/burnout-prevention-and-recovery.htm" target="_blank">HelpGuide.com</a>

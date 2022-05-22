@@ -10,3 +10,7 @@ h1 {
   margin-top: 25px;
   
 }
+
+.carousel-control-prev-icon {
+	color: red;
+}

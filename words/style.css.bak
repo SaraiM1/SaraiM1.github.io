@@ -1,0 +1,39 @@
+body {
+	padding-top: 50px;
+	padding-right: 55px;
+	padding-bottom: 50px;
+	padding-left: 55px;
+}
+
+#Play {
+
+  color: black;
+    padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+
+}
+
+h3 {
+	color: black;
+	padding-top: auto;
+	padding-right: auto;
+	padding-bottom: auto;
+	padding-left: auto;
+}
+
+#example1 {
+	background-color: #EBF6FF;
+	outline: lightblue double 20px;
+	border: 5px solid #69B9C2;
+}
+
+#ss {
+  background-color: #708090;
+}
+
+#button {
+	padding-top: auto;
+	padding-bottom: auto;
+}

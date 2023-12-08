@@ -45,10 +45,8 @@ ul {
 
 <div class="container my-3">
 <h4 class="text-left"> Description of the Project</h4>
-<p class="text-left">Anxiety, Anxiety & More Anxiety is a poetry zine of poems that show what people with anxiety disorders might be feeling when experiencing anxiety throughout their daily lives. These poetry zines are meant to be dispersed throughout public spaces to bring awareness of people struggling with anxiety. By bringing this to people’s attention I hope people stop and reflect on how they behave towards others, because you never know what people are going through.</p>
-
+<p class="text-left">Anxiety, Anxiety & More Anxiety is a poetry zine of poems that show what people with anxiety disorders might be feeling when experiencing anxiety throughout their daily lives. These poetry zines are meant to be dispersed throughout public spaces to bring awareness of people struggling with anxiety. By bringing this to people’s attention I hope people stop and reflect on how they behave towards others, because you never know what people are going through. The image below is what the front and back of the final version look like.</p>
 <img src="../images/finalresult.png" class="mx-auto d-block" "img-fluid" alt="Image of final result" style="width:600px;height:400px;">
-
 <br>
 <h4>Materials</h4>
 <p class="text-left">The materials used to create this project include: </p>
@@ -56,10 +54,11 @@ ul {
   <li>Bing Chat GPT-4</li>
   <li>Adobe Illustrator</li>
   <li>Adobe Photoshop</li>
-  <li>Stable Diffusion v1-5 Hugging Face by runwayml</li>
+  <li>  <a href="https://huggingface.co/spaces/runwayml/stable-diffusion-v1-5" title="Go to W3Schools HTML section">Stable Diffusion v1-5 Hugging Face by runwayml</a></li>
   <li>Astrobrights 28lb paper</li>
   <li>Astrobrights 110lb paper</li>
-  <li>Electric Zine Maker by alienmelon</li>
+  <li>  <a href="https://alienmelon.itch.io/electric-zine-maker" title="Go to W3Schools HTML section">Electric Zine Maker by alienmelon</a>
+</li>
 </ul>
 
 <br>
@@ -93,7 +92,7 @@ ul {
 <h4 class="text-left">Challenges</h4>
 <p class="text-left">A challenge I had was figuring out the size I wanted my zine to be. Originally I was thinking of the traditional ⅛ page size. However, in my opinion this made the text too small to read. Not to mention that some poems required a lot more space than other ones. This issue was resolved when I decided to use a quarter page sized zine.<br></p>
 <p class="text-left">Another challenge I faced was figuring out how I wanted the text to look in front of the images I wanted to use. I tried changing fonts, font size, page placement, and background color. I decided to go with a semi-transparent background in order to see the images, because I felt that a fill image added to the look of the zine.</p>
-<p class="text-left">My bigger challenge was figuring out what type of paper to use when printing. Regular paper would be too flimsy for this project since I had to print double sided. Not to mention, that if the paper was not thick/absorbent enough, then printer lines would show or the paper would start to curve. In the end, I found that using Astrobrights 28lb paper was the best for the inside of the zine, while Astrobrights 110 lb was good for the cover page of the zine. These two paper combinations made the zine less flimsy and gave me the best result.</p>
+<p class="text-left">My biggest challenge was figuring out what type of paper to use when printing. Regular paper would be too flimsy for this project since I had to print double sided. Not to mention, that if the paper was not thick/absorbent enough, then printer lines would show or the paper would start to curve. In the end, I found that using Astrobrights 28lb paper was the best for the inside of the zine, while Astrobrights 110 lb was good for the cover page of the zine. These two paper combinations made the zine less flimsy and gave me the best result.</p>
 
 
 <!-- Carousel -->
@@ -118,7 +117,7 @@ ul {
     <div class="carousel-item active">
       <img src="../images/1stattempt.jpg" alt="1stattempt" class="mx-auto d-block" "img-fluid" style="width:300px;height:400px;">
       <div class="carousel-caption">
-        <h3>1stattempt</h3>
+        <h3>1st Attempt</h3>
       </div>
     </div>
     <div class="carousel-item">
@@ -190,8 +189,8 @@ ul {
 
 <br>
 <h4 class="text-left">Final Thoughts </h4>
-<p class="text-left">The final look is meant to be physical, but I also created an electronic version of the zine in order to let people have digital access to it. After printing a certain amount of copies I also thought this would be a good way to be more environmentally friendly.</p> 
-<a href = "../images/onlinezine.pdf" >Click here for the digital viewing version</a>
+<p class="text-left">The final look is meant to be physical, but I also created an electronic version of the zine in order to let people have digital access to it. After printing a certain amount of copies I also thought this would be a good way to be more environmentally friendly. <a href = "../images/onlinezine.pdf" >Click here to view the digital version</a></p> 
+<p class="text-left">This was my first time creating a zine and experimenting with AI. I really enjoyed creating this project, and I have found a new appreciation toward AI generated images, as well as using AI in general. This fun project also made me realize that a lot of human effort is still done even with the use of AI, which I find comforting as a growing artist. </p>
 <br>
 
 </div>

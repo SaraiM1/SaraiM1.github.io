@@ -10,3 +10,14 @@ h1 {
   margin-top: 25px;
   
 }
+
+.carousel-control-prev-icon {
+	color: red;
+}
+
+
+h3 {
+	color: White;
+	 text-shadow: 2px 2px 5px Black;
+
+}

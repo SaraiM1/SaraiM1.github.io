@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<style>
+#Play { 
+padding-top: 100px;
+padding-bottom:50px;
+}
+#button {
+padding-bottom: 50px;
+h1 {text-align: center;}
+}
+h3 {text-align: center;}
+}
+p {color: #F7FBF7;}
+</style>
+<title>pg1</title>
+</head>
+
+<!-- Latest compiled and minified CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<div id="example1">
+
+<body id="ss">
+<div class="container">
+
+<br>
+<h3 align="left">Waking up every morning to the sound of my alarm,</h3>
+<h3 align="left">I get dressed and brush my teeth, comb my hair, maybe eat something if I have time</h3>
+
+<center>
+<div id="m" class="container mt-3">
+<img src="../images/pg1.jpg" class="img-fluid" alt="pg1" width="700" height="500">
+</div>
+</center>
+<br>
+<h3 align="right"> Sometimes I run late, I got to go, I have a lot to do </h3>
+<h3 align="right">I do this every day, on the grind, 24/7 </h3>
+ 
+<div id="button" class="container mt-3">
+<div style="text-align:right">
+ <button type="button" class="btn btn-outline-success" onclick="location.href='index.html'">Previous Page</button>
+ <button type="button" class="btn btn-outline-success" onclick="location.href='pg2.html'">Next Page</button>
+ </div>
+ </div>
+
+</div>
+</body>
+</html>

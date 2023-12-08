@@ -41,9 +41,8 @@ p {color: #F7FBF7;}
 <div id="button" class="container mt-3">
 <div style="text-align:center">
  <button type="button" class="btn btn-outline-success" onclick="location.href='resources.html'">Resource Page</button>
- <button type="button" class="btn btn-outline-success" onclick="location.href='pg1.html'">Next Story</button>
-  <button type="button" class="btn btn-outline-success" onclick="location.href='pg1.html'">Next Page</button>
-
+   <button type="button" class="btn btn-outline-success" onclick="location.href='s1pg1.html'">Story 1</button>
+ <button type="button" class="btn btn-outline-success" onclick="location.href='pg1.html'">Story 2</button>
 
 
 

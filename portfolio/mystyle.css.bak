@@ -2,6 +2,7 @@
 body {
   background-color: Thistle;
   margin: auto;
+  font-family: Georgia, serif;
 }
 
 h1 {
@@ -20,4 +21,8 @@ h3 {
 	color: Linen;
 	 text-shadow: 2px 2px 5px Black;
 
+}
+
+#navbar {
+	background-color: black
 }

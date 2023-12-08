@@ -13,9 +13,24 @@
 <style>
 
 ul {
-  background-color:Thistle;
+  background-color: Thistle;
 }
 
+.navbar {
+background-color: Thistle
+}
+
+.navbar-text,
+.navbar-brand,
+.nav-link{
+color: #400080 !important;
+}
+
+
+.container-fluid .nav .active {
+background-color: #cfb0cf !important;
+
+}
 
 </style>
 <body>
@@ -25,8 +40,9 @@ ul {
 <h1 class="text-center">Anxiety, Anxiety, & More Anxiety</h1>
 </div>
 
-<nav class="navbar navbar-expand-sm bg-light navbar-light justify-content-center">
- <ul class="navbar-nav">
+<br>
+<nav class="navbar navbar-expand-lg justify-content-center">
+ <ul class="nav nav-tabs nav-justified">
  	<li class="nav-item"><a class="nav-link" href="index.html">home</a></li>
 	<li class="nav-item"><a class="nav-link" href="glitch.html">glitch</a></li>
 	<li class="nav-item"><a class="nav-link" href="mememashup.html">meme</a></li>
@@ -36,11 +52,12 @@ ul {
 	<li class="nav-item"><a class="nav-link" href="minecraft.html">minecraft/3d</a></li>
 	<li class="nav-item"><a class="nav-link" href="game.html">game</a></li>
 	<li class="nav-item"><a class="nav-link" href="burnoutstory.html">burnout-story</a></li>
-	<li class="nav-item"><a class="nav-link" href="zine.html">poetry zine</a></li>
+	<li class="nav-item"><a class="nav-link active" href="zine.html">poetry zine</a></li>
 	<li class="nav-item"><a class="nav-link" href="About.html">about</a></li>
 
 </ul> 
 </nav>
+
 
 
 <div class="container my-3">
@@ -85,7 +102,7 @@ ul {
 
 <img src="../images/sswip.png" class="mx-auto d-block" "img-fluid" alt="public" style="width:600px;height:400px;">
 <br>
-<p class="text-left">Once I had the final layout of the zine, I was able to start printing and putting the zine together. And finally I was able to share my poetry zine with the world. Below is an image of a zine where I left it somewhere on my college campus where anyone could have access to it.</p>
+<p class="text-left">Once I had the final layout of the zine, I was able to start printing and putting the zine together. And finally I was able to share my poetry zine with the world. Below is a photograph of the poetry zine located somewhere on my college campus where anyone could pick it up.</p>
 
 <img src="../images/public.jpg" class="mx-auto d-block" "img-fluid" alt="public" style="width:600px;height:400px;">
 <br>

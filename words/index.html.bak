@@ -16,6 +16,8 @@ h1 {text-align: center;}
 h3 {text-align: center;}
 }
 p {color: #F7FBF7;}
+
+
 </style>
 </head>
 
@@ -36,13 +38,15 @@ p {color: #F7FBF7;}
 <h3 class="display-4">By Sarai Mateo</h3>
 <br>
 <h2 class="text-center">Stories showing the importance of words</h2>
-<br>
 
 <div id="button" class="container mt-3">
-<div style="text-align:center">
- <button type="button" class="btn btn-outline-success" onclick="location.href='resources.html'">Resource Page</button>
-   <button type="button" class="btn btn-outline-success" onclick="location.href='s1pg1.html'">Story 1</button>
- <button type="button" class="btn btn-outline-success" onclick="location.href='pg1.html'">Story 2</button>
+<div style="text-align:right">
+ <button type="button" class="btn btn-outline-secondary" onclick="location.href='s1pg1.html'">Story 1</button>
+ <button type="button" class="btn btn-outline-secondary" onclick="location.href='s2pg1.html'">Story 2</button>
+ <button type="button" class="btn btn-outline-secondary" onclick="location.href='resources.html'">Resource Page</button>
+</div>
+</div>
+
 
 
 

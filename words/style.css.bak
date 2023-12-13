@@ -1,17 +1,19 @@
 body {
 	padding-top: 50px;
-	padding-right: 55px;
+	padding-right: 90px;
 	padding-bottom: 50px;
-	padding-left: 55px;
+	padding-left: 90px;
 }
 
 #Play {
 
   color: black;
+  text-align: center;
     padding-top: 10px;
 	padding-right: 10px;
 	padding-bottom: 30px;
 	padding-left: 10px;
+		font-family: 'Times New Roman', serif;
 
 }
 
@@ -21,6 +23,12 @@ h3 {
 	padding-right: auto;
 	padding-bottom: auto;
 	padding-left: auto;
+			font-family: 'Times New Roman', serif;
+
+}
+
+h2 {
+			font-family: 'Times New Roman', serif;
 }
 
 #example1 {
@@ -36,4 +44,10 @@ h3 {
 #button {
 	padding-top: auto;
 	padding-bottom: auto;
+	font-family: 'Times New Roman', serif;
+}
+
+#as {
+text-align: left;
+color: red;
 }

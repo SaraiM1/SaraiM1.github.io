@@ -15,7 +15,9 @@ h3 {text-align: center;}
 }
 p {color: #F7FBF7;}
 </style>
-<title>s2pg1</title>
+
+
+<title>s1pg3</title>
 </head>
 
 <!-- Latest compiled and minified CSS -->
@@ -32,15 +34,15 @@ p {color: #F7FBF7;}
 
 <center>
 <div id="m" class="container mt-3">
-<img src="../images/s2pg1.jpg" class="img-fluid" alt="pg1" width="700" height="500">
+<img src="../images/s1pg3.jpg" class="img-fluid" alt="pg1" width="700" height="500">
 </div>
 </center>
 <br>
-
+ 
 <div id="button" class="container mt-3">
 <div style="text-align:right">
- <button type="button" class="btn btn-outline-success" onclick="location.href='index.html'">Home Page</button>
- <button type="button" class="btn btn-outline-success" onclick="location.href='s2pg2.html'">Next Page</button>
+ <button type="button" class="btn btn-outline-secondary" onclick="location.href='index.html'">Home Page</button>
+ <button type="button" class="btn btn-outline-secondary" onclick="location.href='index.html'">Next Page</button>
  </div>
  </div>
 

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>story gallery</title>
+</head>
+<!-- Latest compiled and minified CSS -->
+<link href="style.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<body>
+<p>Image Gallery</p>
+
+<div class="data">
+	<img class="images" src="../images/window.jpg"></img>
+	<img class="images" src="../images/kitchen.jpg"></img>
+	<img class="images" src="../images/cover.jpg"></img>
+
+	
+	</div>
+	
+</body>
+</html>

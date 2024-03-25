@@ -1,0 +1,23 @@
+.data {
+	width: 100%;
+	grid-template-columns: auto auto auto auto auto auto;
+  	display: grid;
+  	grid-column-gap: 1px;
+  	grid-row-gap: 1px;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.images {
+	 max-width: 100%;
+	height: auto;
+}
+
+h1 {
+	text-align: center;
+	text-shadow: semi-expanded;
+}
+
+body {
+	background-color: Lavender;
+}

@@ -30,7 +30,6 @@
 	<img class="images" src="../images/tsleep.jpg"></img>
 <video width="400" height="400" autoplay muted>
   <source src="movie.mp4" type="../images/time.mp4">
-Your browser does not support the video tag.
 </video>
 	
 	</div>

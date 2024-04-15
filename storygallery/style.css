@@ -17,6 +17,10 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	text-align: left;
+}
+
 body {
 	background-color: Lavender;
 }
@@ -29,9 +33,4 @@ body {
   	grid-row-gap: 1px;
   	justify-content: center;
   	align-items: center;
-}
-
-.video {
-	width: 300px;
-	height: 300px;
 }

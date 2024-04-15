@@ -23,6 +23,10 @@ h3 {
 
 }
 
-#navbar {
-	background-color: black
+ul {
+  background-color: Thistle;
+}
+
+p {
+	text-align: center;
 }

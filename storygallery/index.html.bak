@@ -14,7 +14,6 @@
 <div class="data">
 
 	<img class="images" src="../images/cover.jpg"></img>
-<br>
 	<img class="images" src="../images/twindow.jpg"></img>
 	<img class="images" src="../images/tkitchen.jpg"></img>
 	<img class="images" src="../images/ttalk.jpg"></img>
@@ -22,8 +21,17 @@
 	<img class="images" src="../images/tcoffee.jpg"></img>
 	<img class="images" src="../images/tpancakes.jpg"></img>
 	<img class="images" src="../images/tsteppedon.jpg"></img>
-
-
+	<img class="images" src="../images/tbrokendishes.jpg"></img>
+	<img class="images" src="../images/tsadrosie.jpg"></img>
+	<img class="images" src="../images/t735.jpg"></img>
+	<img class="images" src="../images/tdream.jpg"></img>
+	<img class="images" src="../images/tpuzzle.jpg"></img>
+	<img class="images" src="../images/tpuzzle2.jpg"></img>
+	<img class="images" src="../images/tsleep.jpg"></img>
+<video width="400" height="400" autoplay muted>
+  <source src="movie.mp4" type="../images/time.mp4">
+Your browser does not support the video tag.
+</video>
 	
 	</div>
 	

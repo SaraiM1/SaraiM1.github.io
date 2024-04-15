@@ -12,9 +12,6 @@
 
 <style>
 
-ul {
-  background-color: Thistle;
-}
 
 .navbar {
 background-color: Thistle
@@ -207,7 +204,7 @@ background-color: #cfb0cf !important;
 
 <br>
 <h4 class="text-left">Final Thoughts </h4>
-<p class="text-left">The final look is meant to be physical, but I also created an electronic version of the zine in order to let people have digital access to it. After printing a certain amount of copies I also thought this would be a good way to be more environmentally friendly. <a href = "../images/onlinezine.pdf" >Click here to view the digital version</a></p> 
+<p class="text-left">The final look is meant to be physical, but I also created an electronic version of the zine in order to let people have digital access to it. After printing a certain amount of copies I also thought this would be a good way to be more environmentally friendly. <a href = "../images/onlinezine.pdf" style="color: #400080">Click here to view the digital version</a></p> 
 <p class="text-left">This was my first time creating a zine and experimenting with AI. I really enjoyed creating this project, and I have found a new appreciation toward AI generated images, as well as using AI in general. This fun project also made me realize that a lot of human effort is still done even with the use of AI, which I find comforting as a growing artist. </p>
 <br>
 

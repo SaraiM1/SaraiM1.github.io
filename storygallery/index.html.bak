@@ -9,7 +9,7 @@
 
 
 <body>
-<h1>Image Gallery</h1>
+<h1>Story Gallery</h1>
 
 <div class="data">
 
@@ -33,7 +33,7 @@
 	
 <div class="data2">
 
-	<video autoplay muted>
+	<video width="320" height="240" controls loop autoplay muted>
 	<source src="../images/time.mp4" type="video/mp4">
 	</video>
 </div>

@@ -2,7 +2,7 @@
 	width: 100%;
 	grid-template-columns: auto auto auto auto auto auto;
   	display: grid;
-  	grid-column-gap: 1px;
+  	grid-column-gap: 10px;
   	grid-row-gap: 1px;
   	justify-content: center;
   	align-items: center;
@@ -19,4 +19,18 @@ h1 {
 
 body {
 	background-color: Lavender;
+}
+
+.data2 {
+	width: 100%;
+	grid-template-columns: auto auto auto auto auto auto;
+  	display: grid;
+  	grid-column-gap: 10px;
+  	grid-row-gap: 1px;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.video {
+	
 }

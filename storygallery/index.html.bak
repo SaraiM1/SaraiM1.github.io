@@ -33,8 +33,8 @@
 	
 <div class="data2">
 
-	<video width="400" height="400" autoplay muted>
-	<source src="movie.mp4" type="../images/time.mp4">
+	<video autoplay muted>
+	<source src="../images/time.mp4" type="video/mp4">
 	</video>
 </div>
 	

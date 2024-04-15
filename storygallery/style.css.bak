@@ -32,6 +32,7 @@ body {
 }
 
 .video {
-	 max-width: 100%;
-	height: auto;
+	
+	width: 300px;
+	height: 300px;
 }

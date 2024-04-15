@@ -26,11 +26,7 @@ body {
 }
 
 .data2 {
-	width: 100%;
-	grid-template-columns: auto auto auto auto auto auto;
-  	display: grid;
-  	grid-column-gap: 10px;
-  	grid-row-gap: 1px;
-  	justify-content: center;
-  	align-items: center;
+	max-width: 100%;
+	height: auto;
+  	align-items: left;
 }

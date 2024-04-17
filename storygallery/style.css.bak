@@ -30,5 +30,4 @@ body {
 	height: auto;
   	align-items: left;
 	position: relative;
-	display: inline;
 }

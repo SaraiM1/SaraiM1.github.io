@@ -3,7 +3,7 @@
 	grid-template-columns: auto auto auto auto auto auto;
   	display: grid;
   	grid-column-gap: 10px;
-  	grid-row-gap: 1px;
+  	grid-row-gap: 10px;
   	justify-content: center;
   	align-items: center;
 }
@@ -26,8 +26,8 @@ body {
 }
 
 .data2 {
-	max-width: 100%;
+	width: 100%;
 	height: auto;
   	align-items: left;
-	position: relative;
+	display: block;
 }

@@ -31,20 +31,26 @@
 		<img class="images" src="../images/tsleep.jpg"></img>
 		<img class="images" src="../images/tcrash.jpg"></img>
 		<img class="images" src="../images/tcarhappy.jpg"></img>
-		<img class="images" src="../images/tcarsad.jpg"></img>
+		<img class="images" src="../images/tcarupset.jpg"></img>
 		<img class="images" src="../images/tdinner.jpg"></img>
 		<img class="images" src="../images/tlunchbag.jpg"></img>
 		<img class="images" src="../images/toutfit.jpg"></img>
 		<img class="images" src="../images/tredpepper.jpg"></img>
 		<img class="images" src="../images/tschool.jpg"></img>
 		<img class="images" src="../images/tsink.jpg"></img>
+		<img class="images" src="../images/tfriend.jpg"></img>
+		<img class="images" src="../images/thelpless.jpg"></img>
+		<img class="images" src="../images/twaiting.jpg"></img>
+		<img class="images" src="../images/tbreakfast1.jpg"></img>
+		<img class="images" src="../images/tbreakfast2.jpg"></img>
+		<img class="images" src="../images/tmessyroom.jpg"></img>
 
 		</div>
 	
 <h2>Video</h2>
 	<div class="data2">
 
-		<video loop autoplay muted playsinline>
+		<video controls loop autoplay muted playsinline>
 		<source src="../images/time.mp4" type="video/mp4">
 		</video>
 	</div>

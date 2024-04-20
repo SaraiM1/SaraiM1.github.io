@@ -14,7 +14,6 @@
 <h2>Images</h2>
 	<div class="data">
 
-		<img class="images" src="../images/cover.jpg"></img>
 		<img class="images" src="../images/twindow.jpg"></img>
 		<img class="images" src="../images/tkitchen.jpg"></img>
 		<img class="images" src="../images/ttalk.jpg"></img>
@@ -44,7 +43,7 @@
 		<img class="images" src="../images/tbreakfast1.jpg"></img>
 		<img class="images" src="../images/tbreakfast2.jpg"></img>
 		<img class="images" src="../images/tmessyroom.jpg"></img>
-
+		<img class="images" src="../images/cover.jpg"></img>
 		</div>
 	
 <h2>Video</h2>
